@@ -37,6 +37,13 @@ Due to large file size, the dataset is not uploaded here.
 You can download it from the following link: [Download Dataset](https://drive.google.com/file/d/1Betup4xdhOXagQLQhpXtkUuoCvBmWsTl/view?usp=sharing)
 This is the cleaned Dataset
 
+---
+
+## 📊 Power BI Dashboard  
+You can view/download the interactive Power BI file (.pbix) here:  
+👉 [Download Power BI Dashboard](https://drive.google.com/file/d/1Ur7LoiC7JETM9EMVoZGR7zEm6ksg5Xie/view?usp=sharing)
+
+
 ## 📈 Outcome  
 The analysis highlights:  
 - Which airlines and airports are most reliable  
